@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Alms SDK Test Console Application")]
-[assembly: AssemblyDescription("This application is for testing ALMS SDK services.")]
+[assembly: AssemblyTitle("Alms SDK Test Application")]
+[assembly: AssemblyDescription("This application is used to test ALMS SDK functionality.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Advancity")]
-[assembly: AssemblyProduct("AlmsSdkTestConsoleApp")]
-[assembly: AssemblyCopyright("Copyright ©  2014")]
+[assembly: AssemblyProduct("Alms SDK Test Application")]
+[assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
